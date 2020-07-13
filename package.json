@@ -82,7 +82,7 @@
     "nuxt-class-component": "^1.3.0",
     "nuxt-edge": "^2.11.1-26314569.9aa8db4e",
     "puppeteer": "^2.0.0",
-    "standard-version": "^7.0.1"
+    "standard-version": "^8.0.1"
   },
   "eslintIgnore": [
     "lib/module/plugin.js"
